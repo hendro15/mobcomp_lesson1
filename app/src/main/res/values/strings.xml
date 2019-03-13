@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="inbox">Inbox</string>
+    <string name="by_google">by Gmail</string>
+    <string name="keterangan">The inbox that works for you</string>
+    <string name="btn_sign_in">SIGN IN</string>
+</resources>
